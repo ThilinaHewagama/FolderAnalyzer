@@ -20,12 +20,6 @@ A simple macOS application to analyze and visualize file sizes on your computer.
 - macOS 15.0 or later
 - Xcode 16.0+ (for development)
 
-## Installation
-
-1. Download the latest release
-2. Open the .dmg file
-3. Drag FolderAnalyzer to your Applications folder
-
 ## How to Use
 
 1. Launch FolderAnalyzer
