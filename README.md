@@ -2,6 +2,8 @@
 
 A simple macOS application to analyze and visualize file sizes on your computer.
 
+![Thumbnail](images/thumbnail.png)
+
 ## Features 📋
 
 - 📂 Select multiple folders to analyze
@@ -53,6 +55,3 @@ Thilina Chamath Hewagama
 
 For bug reports and feature requests, please open an issue on GitHub.
 
-## Thumbnail
-
-![Thumbnail](images/thumbnail.png)
