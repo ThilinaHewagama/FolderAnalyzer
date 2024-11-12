@@ -1,7 +1,6 @@
-
 # FolderAnalyzer
 
-A simple macOS application to analyze and visualize folder sizes on your computer.
+A simple macOS application to analyze and visualize file sizes on your computer.
 
 ## Features 📋
 
@@ -9,7 +8,9 @@ A simple macOS application to analyze and visualize folder sizes on your compute
 - 📊 View total size of selected folders
 - 📝 See detailed file listings with sizes
 - ⚡️ Real-time folder scanning
-- ↕️ Sort files by size
+- ↕️ Sort files by size (largest to smallest)
+- 🔍 View complete file paths
+- 📈 Hierarchical file organization
 - 🔒 Secure folder access using macOS security
 
 ## Requirements
@@ -29,6 +30,8 @@ A simple macOS application to analyze and visualize folder sizes on your compute
 2. Click "Add Folders" to select folders
 3. Grant permission when prompted
 4. View folder sizes and file details
+   - Files are automatically sorted by size (largest first)
+   - Each file shows its full path and size in a readable format
 5. Remove folders using the 'X' button
 
 ## Development
@@ -49,8 +52,6 @@ Thilina Chamath Hewagama
 ---
 
 For bug reports and feature requests, please open an issue on GitHub.
-
-
 
 ## Thumbnail
 
